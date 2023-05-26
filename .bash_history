@@ -72,3 +72,68 @@ git remote add guddo https://github.com/varsha7676/guddo.git
 git remote -v
 ll
 git push -u guddo
+ll
+git status
+git add .
+git commit -m "a"
+GIT STATUS
+git status
+git remote -v
+git remote add guddo
+git remote -v
+git remote add vars https://github.com/varsha7676/guddo.git
+git remote -v
+ll
+cd pinky
+ll
+git push -u vars
+git push -u guddo
+git --force
+yum install git -y
+mkdir pinks
+git init
+git config --global --user.email"surayavanshivarsha@gmail.com
+clear
+sudo -i
+yum install git -y
+mkdir pinks
+mkdir varshu
+git init
+git config --global --user.email"surayavanshi@gmail.com
+git config --global --user.name
+git status
+
+yum install git -y
+mkdir vrs
+git --version
+git config --global --list
+git config --global user.email "surayavanshivarsha@gmail.com
+yum install git -y
+git remote -v
+https://github.com/varsha7676/anita.git
+git remote add origin https://github.com/varsha7676/anita.git
+git remote -v
+yum install git -y
+mkdir vrs
+mkdir pinki
+git init
+git --version
+git config --global --list
+git config --global user.name "pinki"
+git config --global user.email
+my name@surayavanshivarsha@gmail.com
+git config --global user.email "you@example.com"
+"surayavanshivarsha@gmail.com
+sudo su -
+mkdir varsha
+cd 
+cd varsha
+ll
+touch r1.html r1.html
+ll
+git status
+touch t1.html t2.html
+git status
+sudo -i
+sudo su-
+sudo su -
