@@ -213,3 +213,29 @@ cat o1.txt
 vi o1.txt
 cat o1.txt
 git status
+yum install git -y
+git init 
+git --version
+mkdir lion 
+touch j1.html j2.html
+git status 
+git add .
+git status
+git commit -m "kh"
+git status
+git commit -m "sc"
+git status
+touch j1.html j2.html
+git status
+mkdir tiya
+ll
+cd lion
+cd
+ll
+mkdir piya
+touch e1.html e2.html
+git status
+git add .
+git status
+git commit -m "sc"
+git status
