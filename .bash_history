@@ -137,3 +137,38 @@ git status
 sudo -i
 sudo su-
 sudo su -
+yum install git -y
+git init
+git --version
+touch p1.html p2.html
+git status
+git add .
+git commit -m "sc"
+git status
+cd p1.html
+cd
+cd p1.html
+git status
+cd pinks
+ll
+git status
+mkdir rohan
+touch y1.html y2.html
+git status
+git add .
+git status
+git commit -m "sc"
+git status
+mkdir deep
+touch h1.html h2.html
+git status
+git add .
+git status
+git commit -m "de"
+git status
+git remote -v
+git remote add sneha https://github.com/varsha7676/sgv.git
+git remote -v
+git push -u origin
+varsha7676
+user name varsha7676
