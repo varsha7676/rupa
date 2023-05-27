@@ -172,3 +172,44 @@ git remote -v
 git push -u origin
 varsha7676
 user name varsha7676
+yum install git -y
+mkdir jaam
+touch i2.html i3.html
+git status
+git add .
+git status
+cat i2
+ll
+git status
+git commit -m "gh"
+git status
+yum install git -y 
+git init
+git --version
+mkdir riya
+git status
+cd rcb
+git status
+git a
+mkdir riya
+touch o1.html o2.html
+git status
+git add .
+git status
+git commit -m "kl"
+git status
+git renote -v
+git remote add riya https://github.com/varsha7676/riya.git
+git remote -v
+git push -u riya
+echo "good afternoon" >> o1.txt
+git stash
+cat o1.txt 
+cat o1.txt
+git pull
+git add .
+git status
+cat o1.txt
+vi o1.txt
+cat o1.txt
+git status
